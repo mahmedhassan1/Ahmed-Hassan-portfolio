@@ -351,8 +351,7 @@ section {
 
 .project-features {
     list-style: none;
-    margin-bottom: 1.5rem;
-    flex-grow: 1;
+    margin-bottom: 0;
 }
 
 .project-features li {
